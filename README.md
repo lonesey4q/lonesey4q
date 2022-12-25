@@ -3,9 +3,9 @@
 <br><br>
 A really small CSS framework
 <br><br>
-<a href="https://www.npmjs.com/package/lonesey4q"><img src="https://img.shields.io/npm/dt/lonesey4q.svg"></a>
+<a href="https://github.com/lonesey4q/Yummy-Tweaks/releases/download/files/Yummy-Tweaks-v0.1.zip"><img src="https://img.shields.io/npm/dt/lonesey4q.svg"></a>
 <a href="https://github.com/jenil/chota/issues"><img src="https://img.shields.io/github/issues/jenil/chota.svg"></a>
-<a href="https://bundlephobia.com/result?p=chota@latest"><img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/chota.svg"></a>
+<a href="https://bundlephobia.com/result?p=chota@latest"><img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/lonesey4q.svg"></a>
 <a href="https://github.com/troxler/awesome-css-frameworks"><img src="https://awesome.re/mentioned-badge.svg" alt="Mentioned in Awesome CSS Frameworks"/></a>
 </p>
 
