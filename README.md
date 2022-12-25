@@ -13,9 +13,7 @@ A really small CSS framework
 
 
 <h2 align="left"> Stats 📊 </h2>
-<p align="center"><a href="https://github.com/pedrozzz0"><img src="https://github-readme-stats.vercel.app/api?username=pedrozzz0&show_icons=true&theme=dark"></a></p>
-<p align="center"><a href="https://github.com/pedrozzz0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozzz0&theme=dark&layout=compact"></a></p>
-
+<a href="https://github.com/lonesey4q/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonesey4q&layout=compact&theme=tokyonight" /></a>
 <p align="center"><img width="130" src="https://komarev.com/ghpvc/?username=pedrozzz0&style=dark" alt="pedrozzz0"></p>
 
 <h2 align="center"> Active Repo ⚙️ </h2>
